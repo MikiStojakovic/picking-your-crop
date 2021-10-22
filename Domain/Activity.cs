@@ -11,5 +11,8 @@ namespace Domain
         public string Category { get; set; }
         public string City { get; set; }
         public string Venue { get; set; }
+        public decimal Price { get; set; }
+        public string Unit { get; set; }
+        public string Currency { get; set; }
     }
 }
