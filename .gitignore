@@ -3,6 +3,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,dotnetcore,react
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,dotnetcore,react
 
+appsettings.json
+
 ### DotnetCore ###
 # .NET Core build folders
 **/bin/
